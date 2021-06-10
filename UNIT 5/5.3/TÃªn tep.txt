@@ -1,0 +1,4 @@
+Tam thuc x da dao dau: -2 X^2 - 5 X  - 4
+Tam thuc y da dao dau: -1 X^2 - 4 X  - 2
+Tam thuc TONG: -3 X^2 - 9 X  - 6
+Tam thuc HIEU: -1 X^2 - 1 X  - 2
